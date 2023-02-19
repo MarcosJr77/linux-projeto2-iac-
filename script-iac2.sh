@@ -8,7 +8,7 @@ echo "Instalando programas......."
 apt-get install apache2 -y
 apt-get install unzip -y
 
-echo "Biaxando e copiando os arquivos de aplicação......."
+echo "Baixando e copiando os arquivos de aplicação......."
 
 cd/temp
 wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
